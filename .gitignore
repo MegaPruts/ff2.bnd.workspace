@@ -1,0 +1,7 @@
+**/*.bak
+/.gradle/
+/.metadata/*
+**/.project
+**/.classpath
+**/.settings
+
